@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "851360982939",
+    "project_id": "fitnessapp-aede3",
+    "storage_bucket": "fitnessapp-aede3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851360982939:android:098954dfacd15c368a233e",
+        "android_client_info": {
+          "package_name": "com.example.fitnesstrackingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851360982939-kcvicfsc1409al7ft9q1l64efucepaeg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxliTe4L-471iq7levuVrfu_ajp8XTM3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851360982939-kcvicfsc1409al7ft9q1l64efucepaeg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "851360982939-9jbdffo0mruuvsgo0a28h3eeb153uhru.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fitnesstrackingapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851360982939:android:8f9d574c417dac3a8a233e",
+        "android_client_info": {
+          "package_name": "foodbar.kaara.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851360982939-kcvicfsc1409al7ft9q1l64efucepaeg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxliTe4L-471iq7levuVrfu_ajp8XTM3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851360982939-kcvicfsc1409al7ft9q1l64efucepaeg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "851360982939-9jbdffo0mruuvsgo0a28h3eeb153uhru.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fitnesstrackingapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
